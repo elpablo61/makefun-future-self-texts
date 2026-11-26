@@ -1,0 +1,1 @@
+{"description":"One funny text message from your future self (make.fun bounty entry)","license":"MIT","main":"main.ts","name":"makefun-future-self-texts","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
